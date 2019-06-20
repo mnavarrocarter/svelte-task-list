@@ -1,4 +1,5 @@
 <script>
+    import { error } from './../../service/notification';
     import { TaskRepository } from './tasks';
     import { onMount, onDestroy } from 'svelte';
     import Task from './Task.svelte';
@@ -13,7 +14,10 @@
     });
 
     onMount(() => {
-        return TaskRepository.all();
+        return TaskRepository.all()
+        .catch((e) => {
+            error(e.message);
+        })
     });
 
     onDestroy(() => {
