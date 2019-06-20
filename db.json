@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": "e1dd4b67-b015-4526-a050-80ca16780eb4",
+      "title": "Learn Svelte",
+      "description": "Svelte is a prowerful micro-framework for building user interfaces",
+      "completed": true,
+      "completedAt": "2019-06-20T14:13:01.096Z"
+    },
+    {
+      "id": "080972a2-e0d1-4613-95b3-884d5ee6bd13",
+      "title": "Build a simple app with Svelte",
+      "description": "I need to build a simple application with this framework to test it out",
+      "completed": true,
+      "completedAt": "2019-06-20T14:27:32.896Z",
+      "dueDate": ""
+    },
+    {
+      "id": "de7171c5-e893-4e77-966d-e99e35eb6c24",
+      "title": "Spread the word!",
+      "description": "Blog about my experience with Svelte",
+      "completed": true,
+      "completedAt": "2019-06-20T14:27:31.667Z",
+      "dueDate": ""
+    },
+    {
+      "id": "eceda326-64ee-48b0-b95f-47d92c6a0ae3",
+      "title": "Build a complex application with Svelte",
+      "description": "To really test Svelte's performance and limits I must build a complex app with it.",
+      "completed": false,
+      "completedAt": "",
+      "dueDate": ""
+    }
+  ]
+}
