@@ -46,7 +46,7 @@ function info(message) {
     }).show()
 }
 
-export {
+export default {
     error,
     success,
     warning,

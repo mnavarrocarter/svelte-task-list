@@ -22,17 +22,16 @@ Install the project dependencies:
 npm ci
 ```
 
-Start the fake api using json-server. (You need json-server installed globally)
+Start the fake api using json-server.
 
 ```bash
-json-server --watch db.json
+npm run dev-db
 ```
 
 And then run the project:
 
 ```bash
-npm run dev
-```
+npm run dev ```
 
 ## Architecture
 

@@ -3,9 +3,9 @@
     {
       "id": "e1dd4b67-b015-4526-a050-80ca16780eb4",
       "title": "Learn Svelte",
-      "description": "Svelte is a prowerful micro-framework for building user interfaces",
+      "description": "Learn Svelte basics to see how it works",
       "completed": true,
-      "completedAt": "2019-06-20T14:13:01.096Z"
+      "completedAt": "2020-01-29T13:21:06.941Z"
     },
     {
       "id": "080972a2-e0d1-4613-95b3-884d5ee6bd13",
@@ -27,6 +27,14 @@
       "id": "eceda326-64ee-48b0-b95f-47d92c6a0ae3",
       "title": "Build a complex application with Svelte",
       "description": "To really test Svelte's performance and limits I must build a complex app with it.",
+      "completed": false,
+      "completedAt": "",
+      "dueDate": ""
+    },
+    {
+      "id": "86d336e0-c331-4d8f-be95-ab4596061a07",
+      "title": "Teach Svelte in Option",
+      "description": "I need to do a 5 minute workshop to showcase Svelte in Option",
       "completed": false,
       "completedAt": "",
       "dueDate": ""
